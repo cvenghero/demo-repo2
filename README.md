@@ -8,4 +8,4 @@ Instruction for readme
 
 # changes for readme instruction
 
-1. Open up your index.html file
+1. Open up your index.html file for local development
